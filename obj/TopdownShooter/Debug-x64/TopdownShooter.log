@@ -1,0 +1,105 @@
+﻿  Enemy.cpp
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Tilemap.hpp(63,36): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Tilemap.hpp(63,24): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Tilemap.hpp(84,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Tilemap.hpp(85,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Animation.hpp(21,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Animation.hpp(21,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Enemy.cpp(14,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Enemy.cpp(14,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Enemy.cpp(63,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Enemy.cpp(63,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Player.cpp
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Tilemap.hpp(63,36): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Tilemap.hpp(63,24): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Tilemap.hpp(84,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Tilemap.hpp(85,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Level.hpp(28,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Animation.hpp(21,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Animation.hpp(21,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Player.cpp(15,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Player.cpp(15,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Player.cpp(59,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ismet\source\repos\TopdownShooter\TopdownShooter\Player.cpp(59,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating Code...
+  TopdownShooter.vcxproj -> C:\Users\ismet\source\repos\TopdownShooter\bin\TopdownShooter\Debug-x64\TopdownShooter.exe

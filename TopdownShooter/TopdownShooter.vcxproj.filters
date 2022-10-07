@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{1dd9ae41-f504-4b5c-a1dc-83e561b2089c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TopdownShooter">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Application.cpp">
+      <Filter>TopdownShooter</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1.cpp">
+      <Filter>TopdownShooter</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>TopdownShooter</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>TopdownShooter</Filter>
+    </ClCompile>
+    <ClCompile Include="Barrel.cpp">
+      <Filter>TopdownShooter</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>TopdownShooter</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.hpp">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.hpp">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1.hpp">
+      <Filter>TopdownShooter</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.hpp">
+      <Filter>TopdownShooter</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.hpp">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.hpp">
+      <Filter>TopdownShooter</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.hpp">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Tilemap.hpp">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Tags.hpp">
+      <Filter>TopdownShooter</Filter>
+    </ClInclude>
+    <ClInclude Include="Barrel.hpp">
+      <Filter>TopdownShooter</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.hpp">
+      <Filter>TopdownShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
